@@ -1,0 +1,988 @@
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Ocurrió un error inesperado
+Traceback (most recent call last):
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 841, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/app.py", line 450, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/var/www/html/Facturas/venv/lib/python3.10/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
